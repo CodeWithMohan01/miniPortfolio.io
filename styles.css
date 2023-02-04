@@ -1,0 +1,161 @@
+ 
+body{
+ 	text-align: center;
+	margin: 0;
+	padding: 0;
+	line-height: 2;
+ }
+ 
+ ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	/* background-color: #333; */
+  }
+  
+  #nev{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	background-color: #333;
+  }
+  li {
+	float: right;
+  }
+  
+  li a {
+	/* display: block; */
+	color: #17ecf4;
+	text-align: center;
+	padding: 5px 15px;
+	text-decoration: none;
+  }
+  
+  li a:hover {
+	background-color: #d9ecf2;
+	color: rgb(0, 0, 0);
+	border-radius: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+  }
+
+ h1 {
+	font-size: 2rem;
+	font-family: 'Montserrat', sans-serif;
+	color: #66BFBF;
+ }
+ 
+  h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1rem;
+	color: #66BFBF;
+ }
+   h3 {
+	font-family: 'Source Serif Pro', serif;
+	font-size: 1rem;
+	color: #11999E;
+	font-size: 150%;
+ }
+
+ 
+
+ .top {
+	 
+	 padding-top: 100px;
+	 padding-bottom: 10px;
+	 background-color: #d9ecf2;
+ }
+ 
+  .cloud1 {
+	position: absolute;
+	right: 320px;
+	top: 90px;
+ }
+
+ .cloud2 {
+	position: absolute;
+	left: 300px;
+	top: 300px;
+ }
+ 
+ .top-hdding {
+	color: #66BFBF;
+	font-family: 'Sacramento', cursive;
+	font-size: 3.7rem;
+	margin-bottom: 10px;
+ }
+
+ .profile {
+	 margin-top: 50px;
+ }
+ 
+ .dotted-rows {
+	 border-color: #767c77;
+    border-style:  dotted none none none;
+    border-width: 5px;
+    width: 15%;
+   }
+ 
+ 
+ .links {
+	 margin: 10px 20px;
+ }
+ 
+ .about-my-self {
+	margin: 20px 10px auto 400px;
+	float: left;
+ }
+ 
+ .table {
+		text-align: left;
+ }
+ 
+ a {
+	 color: blue;
+	font-family: 'Montserrat', sans-serif;
+	margin: auto 20px;
+ }
+ 
+ .footter {
+	 background: #51adcf;
+	 padding: 50px 100px;
+ }
+ 
+ a{
+	text-decoration: none;
+	color: black;
+	font-size: 120%;
+ }
+ div{
+	 display: block;
+ }
+ #edu{
+	float: right;
+	padding-left: 37%;
+ }
+ #con{
+	float: left;
+	padding-left: 10%;
+	padding-right: 60%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+ }
+
+ #lang{
+	padding-left: 0%;
+	padding-right: 0%;
+	padding-top: 0;
+	padding-bottom: 0%;
+	padding-right: 110px;
+    padding-left: 113px;
+ }
+
+ .head{
+	font-size: 20px;
+	font-weight: bolder;
+ }
+ 
+ th{
+	font-size: larger;
+ }
